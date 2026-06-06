@@ -1,1 +1,1 @@
-const express = require('express'); const app = express(); app.get('/', (req, res) => res.json({ project: 'Stream Scholar', status: 'Streaming Education', contract: 'CB7OZPTIUENDWJWNHRGDPZLIEIS6TXMFRYT4WCGHIZVYLCTXEONC6VHY' })); app.listen(3000);
+const express = require('express'); const app = express(); app.get('/', (req, res) => res.json({ project: 'cerebro-agent-network', status: 'Streaming Education', contract: 'CB7OZPTIUENDWJWNHRGDPZLIEIS6TXMFRYT4WCGHIZVYLCTXEONC6VHY' })); app.listen(3000);
